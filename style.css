@@ -1,0 +1,57 @@
+
+
+.font {
+    font-family: 'Source Sans Pro', sans-serif;
+    width:100%;
+    font-size: 54pt;
+    display: block !important;
+    width:100%;
+    text-align: center;
+}
+
+
+div.upload {
+    background: url(upload.png);
+    background-repeat: no-repeat;
+    height:256px;
+    width:256px;
+    overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.upload input {
+
+    display: block !important;
+    opacity: 0 !important;
+    overflow: hidden !important;
+    height:256px;
+    width:256px;
+    overflow: hidden;
+    display: block;
+    padding-bottom: 5px;
+}
+}
+
+#imageCanvas {
+    width: 100% !important;
+    height: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float:left;
+}
+
+div.download {
+    background: url(download.png);
+    background-repeat: no-repeat;
+    height:256px;
+    width:256px;
+    float:right;
+}
+.image {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
