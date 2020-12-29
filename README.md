@@ -1,2 +1,2 @@
 # snapcaptionremover
-Javascript snapchat caption remover
+Try it here: http://rasmuskarlsson.github.io/snapcaptionremover/
